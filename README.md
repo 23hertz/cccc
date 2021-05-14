@@ -1,1 +1,1 @@
-# counter.github.io
+# mycounter.github.io
